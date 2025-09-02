@@ -77,9 +77,9 @@ public:
     void use(shared_ptr<AbstractGraphFactory>& agr)
     {
         shared_ptr<Image> img = make_shared<Image>();
-        auto graphics = agr->createGraphics()
+        // auto graphics = agr->createGraphics();
     }
-}
+};
 
 
 
