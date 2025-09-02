@@ -112,4 +112,4 @@ void print_type(const T&) [with T = std::unique_ptr<IProduct>]
 do Some ConcreteProduct_2
 ConcreteProduct_2 destructor called
 ConcreteProductCreator_2 destructor called
-*/
+*/  
